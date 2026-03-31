@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg
+*.egg-info/
+*.dist-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.tmp.*
+
+# Output directory (test artifacts - users generate their own)
+output/
+data/
+
+# Benchmark artifacts (generated at runtime)
+turbo_vs_standard.md
+perplexity_chart.png
+benchmark_results.json
+
+# Model checkpoints (large files)
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.gguf
+
+# HuggingFace cache
+.huggingface/
+cache/

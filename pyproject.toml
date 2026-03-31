@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turboq"
+version = "0.1.0"
+description = "TurboQuant-style adaptive block-wise quantization for HuggingFace models"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "TurboQ CLI", email = "turboq@example.com"}
+]
+dependencies = [
+    "click>=8.0",
+    "transformers>=4.30",
+    "datasets>=2.14",
+    "matplotlib>=3.7",
+    "huggingface-hub>=0.16",
+    "numpy>=1.24",
+    "torch>=2.0",
+    "scipy>=1.10",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=2.12",
+]
+
+[project.scripts]
+turboq = "turboq.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["turboq*"]
