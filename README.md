@@ -7,7 +7,7 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-integration-orange.svg)](https://huggingface.co/)
 [![GGUF](https://img.shields.io/badge/GGUF-v3-green.svg)](https://github.com/ggerganov/llama.cpp)
 
-**Quantized Autonomously by [NEO](https://heyneo.so)** — your Autonomous AI Agent  
+**Made Autonomously by [NEO](https://heyneo.so)** — your Autonomous AI Agent  
 [![VS Code Extension](https://img.shields.io/badge/VSCode-Extension-0078D4?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)
 
 ---
