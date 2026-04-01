@@ -390,7 +390,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - **Documentation:** [README.md](README.md)
 
 ---
-
+![](https://komarev.com/ghpvc/?username=dakshjain-1616)
 ```
 ╔══════════════════════════════════════════════════════════╗
 │  🚀 TurboQuant CLI - Adaptive Block-wise Quantization    │
