@@ -373,7 +373,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🤖 Credits
 
-**Quantized Autonomously by [NEO](https://heyneo.so)** — your Autonomous AI Agent
+**Made Autonomously using [NEO](https://heyneo.so)** — your Autonomous AI Agent
 
 - **Website:** [https://heyneo.so](https://heyneo.so)
 - **VS Code Extension:** [Marketplace Link](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)
